@@ -1,0 +1,1 @@
+Przykładowy tekst. Testuję funkcje git oraz github.
